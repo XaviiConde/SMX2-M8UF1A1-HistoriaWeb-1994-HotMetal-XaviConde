@@ -5,7 +5,7 @@
 
 Es uno de los primeros programas de software de autoría HTML comercial. Fue lanzado con una versión gratuita (HoTMetal Free) y una versión profesional (HoTMetaL Pro).
 
-![HotMetal](https://github.com/XaviiConde/SMX2-M8UF1A1-HistoriaWeb-1994-Phyton-XaviConde/blob/main/Python.png "Python")
+![HotMetal](https://github.com/XaviiConde/SMX2-M8UF1A1-HistoriaWeb-1994-HotMetal-XaviConde/blob/main/imagen_2022-09-27_092910496.png "HotMetal")
 
 **- ¿Cuando y Quien creó Python?**
 
