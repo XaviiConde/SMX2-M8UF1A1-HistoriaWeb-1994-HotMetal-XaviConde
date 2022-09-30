@@ -7,9 +7,9 @@
 
 ## Índice
 
-1.- ¿Qué fue HotMetal?**
+1.- ¿Qué fue HotMetal?
 
-2.- ¿Cuando y Quien creó HotMetal?**
+2.- ¿Cuando y Quien creó HotMetal?
 <br />
 <br />
 
