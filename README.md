@@ -7,7 +7,7 @@ Es uno de los primeros programas de software de autoría HTML comercial. Fue lan
 
 ![HotMetal](https://github.com/XaviiConde/SMX2-M8UF1A1-HistoriaWeb-1994-HotMetal-XaviConde/blob/main/_resize%20.jfif "HotMetal")
 
-**- ¿Cuando y Quien creó Python?**
+**- ¿Cuando y Quien creó HotMetal?**
 
 Este, fue lanzado en 1994 por SoftQuad Software de Toronto, Canadá. Basado en el motor SGML de SoftQuad Author/Editor.
 
