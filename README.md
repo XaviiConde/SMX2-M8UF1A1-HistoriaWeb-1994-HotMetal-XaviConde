@@ -13,7 +13,7 @@
 <br />
 <br />
 
-## · ¿Qué fue HotMetal?**
+## · ¿Qué fue HotMetal?
 
 Es uno de los primeros programas de software de autoría HTML comercial. Fue lanzado con una versión gratuita (HoTMetal Free) y una versión profesional (HoTMetaL Pro).
 
